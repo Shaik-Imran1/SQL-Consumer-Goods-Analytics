@@ -10,16 +10,24 @@
 
 
 🔑 **Acquired Skills:**
-➡ Development of Custom User-Defined Functions ➡ Mastery of Database Views 
 
-➡ Proficiency in Stored Procedures ➡ Utilization of Advanced Window Functions (OVER, ROW_NUMBER, RANK, DENSE_RANK) 
+➡ Development of Custom User-Defined Functions 
 
-➡ Effective Management of Temporary Tables ➡ Deep Dive into Database Indexes and System Updates
+➡ Mastery of Database Views 
+
+➡ Proficiency in Stored Procedures
+
+➡ Utilization of Advanced Window Functions (OVER, ROW_NUMBER, RANK, DENSE_RANK) 
+
+➡ Effective Management of Temporary Tables
+
+➡ Deep Dive into Database Indexes and System Updates
 
 ➡ Upholding Data Integrity and Mastering Entity-Relationship Diagrams
 
 
 🔄 **Notable Discoveries:**
+
 ➡ Amazon topped net sales with 109.03M in fiscal 2021, closely followed by AtliQ Exclusive at 79.92M. 
 
 ➡ India emerged as the leading market with the highest net sales of 210.67M in fiscal 2021, with the USA trailing at 132.05M. 
