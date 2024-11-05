@@ -1,6 +1,6 @@
 # SQL-Project-Consumer-Goods-Analytics
 
-#### FINANCE AND SUPPLY CHAIN ANALYTICS OF ATLIQ HARDWARES
+#### CONSUMER GOODS ANALYTICS OF ATLIQ HARDWARES
 
 📊 **Problem Tackled:** Addressing the challenges of Excel's file size constraints, enhancing decision-making processes, and streamlining operations through MySQL analytics.
 
